@@ -1,5 +1,7 @@
 <h2 align="left">Hello! I'm Willian 🖖</h2>
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9644CD&center=true&vCenter=true&width=1000&lines=Hello%2C+my+name+is+Willian+Richter;I+am+Software+Developer;Welcome+to+my+Github+:%29)
+
 ###
 
 <p align="left">- 🔭 I’m currently working on back-end and front-end<br>- 😄 Pronouns: He/His<br>- 🎶 My style of music: Jazz🎷</p>
