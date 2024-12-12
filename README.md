@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on back-end and front-end<br>- 💻 I’m currently learning Java, Javascript, Typescript, Python, C/C++, PHP, HTML and CSS<br>- 😄 Pronouns: He/His<br>- 🎶 My style of music: Jazz🎷</p>
+<p align="left">- 🔭 I’m currently working on back-end and front-end<br>- 😄 Pronouns: He/His<br>- 🎶 My style of music: Jazz🎷</p>
 
 ###
 
