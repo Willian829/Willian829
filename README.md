@@ -8,9 +8,13 @@
 
 ## <p width="25px" height="25px"> About me:
 
-<p align="left">- 🔭 I’m currently working on back-end and front-end<br>- 😄 Pronouns: He/His<br>- 🎶 My style of music: Jazz🎷</p>
+<img align="right" height="150" src="https://github.com/user-attachments/assets/ee398c6f-9cbe-4b34-aa13-ea3f580cb1a7" /><br>
+
+<p align="left">- 🔭 I’m currently working on back-end and front-end<br>- 🎶 My style of music: Jazz🎷<br>- 🎬 Favorite franchise: Star Wars🪐</p>
 
 ###
+
+## <p width="25px" height="25px"> Stats:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Willian829&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false" height="150" alt="stats graph"  />
