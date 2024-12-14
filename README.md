@@ -1,6 +1,6 @@
 <h2 align="left">Hello! I'm Willian 🖖</h2> 
 
-![206916906-9bfb66d9-c419-44c2-908a-4885e610425f](https://github.com/user-attachments/assets/a4d24e3c-9ec9-4d1b-a9b4-8a6481a7360b)
+![mario](https://github.com/user-attachments/assets/4d6b2fec-d6ff-4942-94d4-90544c4ca7a1)
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9644CD&center=true&vCenter=true&width=1000&lines=Hello%2C+my+name+is+Willian+Richter+🖖;I+am+Software+Developer;Welcome+to+my+Github)
 
