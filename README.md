@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,php,py,c,cpp,cs,js,ts,ruby,lua,elixir,kotlin,arduino&perline=9" />
+    <img src="https://skillicons.dev/icons?i=java,php,py,c,cpp,cs,js,ts,ruby,lua,elixir,kotlin,arduino,go&perline=9" />
   </a>
 </p>
 
