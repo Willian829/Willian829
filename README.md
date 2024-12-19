@@ -68,7 +68,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=eclipse,idea,phpstorm,pycharm,atom,sublime&perline=9" />
+    <img src="https://skillicons.dev/icons?i=eclipse,idea,phpstorm,pycharm,atom,sublime,vscode&perline=9" />
   </a>
 </p>
 
