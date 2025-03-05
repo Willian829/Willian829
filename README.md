@@ -10,7 +10,7 @@
 
 <img align="right" height="150" src="https://github.com/user-attachments/assets/ee398c6f-9cbe-4b34-aa13-ea3f580cb1a7" /><br>
 
-<p align="left">- 🔭 I’m currently working on back-end and front-end<br>- 🎶 My style of music: Jazz🎷<br>- 🎬 Favorite franchise: Star Wars🪐</p>
+<p align="left">- 🔭 I’m currently working on back-end and front-end<br>- 🎶 My style of music: Jazz🎷<br>- 🎬 Favorite franchise: Star Wars🪐, Lord of the Rings🧙, Marvel🦸‍♂, DC🦸‍♂</p>
 
 ###
 
