@@ -70,16 +70,12 @@
 ## GitHub stats 📊
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Willian829&show_icons=true&include_all_commits=true&theme=midnight-purple&hide_border=true&border_radius=10&locale=en" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=Willian829&layout=compact&card_width=320&langs_count=6&theme=midnight-purple&hide_border=true&border_radius=10&locale=en" alt="Top languages" />
+  <img height="165" src="./profile/stats.svg" alt="GitHub stats" />
+  <img height="165" src="./profile/top-langs.svg" alt="Top languages" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Willian829&theme=midnight-purple&hide_border=true&border_radius=10" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Willian829&bg_color=000000&color=ffffff&title_color=9745f5&line=9f4bff&point=ffffff&area_color=9745f5&area=true&hide_border=true&radius=10" alt="Contribution graph" />
 </p>
 
 ## Snake eating my contributions 🐍
